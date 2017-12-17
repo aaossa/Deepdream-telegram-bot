@@ -1,0 +1,6 @@
+numpy
+pillow
+python-telegram-bot
+requests
+tensorflow
+ujson
